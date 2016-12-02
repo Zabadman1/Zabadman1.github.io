@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $http://wallpapercave.com/wp/9E9cDjN.jpg;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    background-image: url("http://wallpapercave.com/wp/9E9cDjN.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
 }
 
 .container {

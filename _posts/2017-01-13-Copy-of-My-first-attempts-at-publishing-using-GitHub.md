@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To create a website</td>
+    <td>To create a website and publish something</td>
   </tr>
   <tr>
     <td>Did I reach my target? 

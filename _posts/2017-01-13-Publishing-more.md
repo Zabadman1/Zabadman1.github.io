@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes, I changed my font, and posted something about my friend. Why my friend is not good at IT</td>
+    <td>Yes, I changed my font, and posted something about my friend. https://zabadman1.github.io/why-my-friend-is-not-good-at-it/</td>
   </tr>
 </table>
 

@@ -1,5 +1,5 @@
 ---
-title: My first attempts at publishing using GitHub
+title: First attempt at using a spreadsheet
 layout: post
 author: anas.zabadne
 permalink: /my-first-attempts-at-publishing-using-github/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>Using a spreadshheet  </td>
+    <td>Using a spreadsheet  </td>
     <td> Date:  </td>
     <td>06/01/17</td>
   </tr>

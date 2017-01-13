@@ -1,5 +1,5 @@
 ---
-title: Copy of My first attempts at publishing using GitHub
+title: First attempts at using github
 layout: post
 author: anas.zabadne
 permalink: /copy-of-my-first-attempts-at-publishing-using-github/

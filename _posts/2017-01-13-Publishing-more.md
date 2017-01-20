@@ -1,5 +1,5 @@
 ---
-title: Lesson 3
+title: Publishing more
 layout: post
 author: anas.zabadne
 permalink: /publishing-more/
@@ -61,4 +61,6 @@ I do not really need to change anything.</td>
   </tr>
 </table>
 
+
+![image alt text]({{ site.url }}/public/XfXW6EDeb0EGjWTMUgg28g_img_0.png)
 

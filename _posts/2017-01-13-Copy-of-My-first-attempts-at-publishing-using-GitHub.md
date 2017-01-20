@@ -1,5 +1,5 @@
 ---
-title: First attempts at using github
+title: My first attempts at publishing using GitHub
 layout: post
 author: anas.zabadne
 permalink: /copy-of-my-first-attempts-at-publishing-using-github/
@@ -62,4 +62,6 @@ Don't change things that I don’t know about.</td>
   </tr>
 </table>
 
+
+![image alt text]({{ site.url }}/public/Fz0ypq8CZmi4HSl7bp1IA_img_0.png)
 

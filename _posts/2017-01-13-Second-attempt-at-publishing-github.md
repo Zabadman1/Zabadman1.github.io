@@ -63,3 +63,5 @@ Try and do it myself, to maybe help me be better at publishing things using gith
 </table>
 
 
+![image alt text]({{ site.url }}/public/n5zPWQaDnx6Q91hprZUjLA_img_0.png)
+

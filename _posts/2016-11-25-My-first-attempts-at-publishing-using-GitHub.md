@@ -44,6 +44,7 @@ published: true
     <td>
 
 
+
 Mainly by focused listening and watching a demonstration.</td>
   </tr>
   <tr>
@@ -62,4 +63,6 @@ I do not really need to change anything.</td>
   </tr>
 </table>
 
+
+![image alt text]({{ site.url }}/public/beZNbHlDxsZitAuSadg_img_0.png)
 

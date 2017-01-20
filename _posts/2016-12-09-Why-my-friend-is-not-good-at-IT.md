@@ -22,3 +22,5 @@ He is absolutely rubbish, even though he tries his hardest to do well in IT. As 
 
 Dear my friend I am truly sorry for what I have done
 
+![image alt text]({{ site.url }}/public/2Hf7lSWi15pE7cdOO2H3w_img_0.png)
+

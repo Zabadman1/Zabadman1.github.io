@@ -1,5 +1,5 @@
 ---
-title: Second attempt at publishing github
+title:  Lesson 2 - Second attempt at publishing Github
 layout: post
 author: anas.zabadne
 permalink: /second-attempt-at-publishing-github/

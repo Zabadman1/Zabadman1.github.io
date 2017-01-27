@@ -1,5 +1,5 @@
 ---
-title: Publishing my spreadsheet
+title: Lesson 8 (part 1) - Publishing my spreadsheet
 layout: post
 author: anas.zabadne
 permalink: /publishing-my-spreadsheet/

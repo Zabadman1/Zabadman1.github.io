@@ -1,5 +1,5 @@
 ---
-title: Playing Light Bot
+title: Lesson 4 - Playing Light Bot
 layout: post
 author: anas.zabadne
 permalink: /playing-light-bot/

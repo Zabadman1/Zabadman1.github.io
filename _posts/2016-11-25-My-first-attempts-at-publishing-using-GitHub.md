@@ -1,5 +1,5 @@
 ---
-title: First attempt at using a spreadsheet
+title: Lesson 6 - First attempt at using a spreadsheet
 layout: post
 author: anas.zabadne
 permalink: /my-first-attempts-at-publishing-using-github/

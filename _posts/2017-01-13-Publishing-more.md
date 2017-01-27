@@ -1,5 +1,5 @@
 ---
-title: Publishing more
+title: Lesson 3 - Publishing more
 layout: post
 author: anas.zabadne
 permalink: /publishing-more/

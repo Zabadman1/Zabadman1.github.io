@@ -64,5 +64,3 @@ Put in more effort</td>
 </table>
 
 
-![image alt text]({{ site.url }}/public/TpzmKqu7E3nr3DulUkhpg_img_0.png)
-
